@@ -1,5 +1,3 @@
-![](src/main/resources/ball.png?raw=true)
-
 # paper-soccer
 Classic paper soccer game
 
