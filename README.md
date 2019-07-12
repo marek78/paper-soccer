@@ -26,4 +26,5 @@ java -jar target/paper-soccer-1.0.0-SNAPSHOT.jar
 
 ### Some snapshots:
 ![](snapshots/paper_soccer_001.png?raw=true)
+![](snapshots/paper_soccer_002.png?raw=true)
 =
